@@ -6,7 +6,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: JQUERY / BOOTSTRAP / JS / HTML / CSS
+Skills: JQUERY / BOOTSTRAP / JS / HTML / CSS / PHOTOSHOP 
 
 - 🔭 I’m currently working on Landing page 
 - 🌱 I’m currently learning Payton 
