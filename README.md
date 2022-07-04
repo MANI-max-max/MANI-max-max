@@ -1,7 +1,7 @@
 
 
-# Hi there 👋,
-     my name is Manishankar Mandal
+### Hi there 👋,
+  # my name is Manishankar Mandal
 ## I am Web Designer
 ![I am Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
