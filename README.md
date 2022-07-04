@@ -4,8 +4,8 @@
   # my name is Manishankar Mandal
 ## I am Web Designer
 ![I am Web Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+Hi! I am Manishankar Mandal, a web designer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2021. I enjoy creating beautifully designed.
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: JQUERY / BOOTSTRAP / JS / HTML / CSS / PHOTOSHOP 
 
