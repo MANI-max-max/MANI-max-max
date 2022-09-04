@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋,
-  # my name is Manishankar Mandal
+  # My name is Manishankar Mandal
 ## I am Web Designer
 Hi! I am Manishankar Mandal, a web designer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2021. I enjoy creating beautifully designed.
 
