@@ -2,14 +2,14 @@
 
 ### Hi there 👋,
   # My name is Manishankar Mandal
-## I am Web Designer
-Hi! I am Manishankar Mandal, a web designer focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2021. I enjoy creating beautifully designed.
+## I am Font-End developer
+Hi! I am Manishankar Mandal, a Font-End focused on crafting great web experiences. Designing and Coding have been my passion since the days I started working with computers but I found myself into web design/development since 2021. I enjoy creating beautifully designed.
 
 
-Skills: JQUERY / BOOTSTRAP / JS / HTML / CSS / PHOTOSHOP 
+Skills: HTML / CSS /  JS / JQUERY / BOOTSTRAP / PHOTOSHOP 
 
 - 🔭 I’m currently working on Landing page 
-- 🌱 I’m currently learning Payton 
+- 🌱 I’m currently learning Payton
 - 📫 How to reach me: manishankarmandal6@gmail.com 
 
 
